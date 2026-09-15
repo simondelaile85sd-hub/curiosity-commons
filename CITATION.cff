@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use or discuss this public working material, please cite the repository and the specific version or commit."
+title: "Curiosity Commons: Public Working Architecture and Pilot A"
+type: software
+version: "0.1-public-working"
+date-released: 2026-09-15
+license: "CC-BY-SA-4.0"
+authors:
+  - family-names: Delaile
+    given-names: Simon
+repository-code: "https://github.com/simondelaile85sd-hub/curiosity-commons"
+url: "https://github.com/simondelaile85sd-hub/curiosity-commons"
+abstract: >-
+  A public working architecture and manual-first pilot protocol for a belonging-first
+  social setting in which capacities may be discovered without becoming obligations.
+  The material is developmental, externally gated, and not validated.
+keywords:
+  - belonging
+  - capacity discovery
+  - social infrastructure
+  - commons governance
+  - anti-capture
+  - pilot protocol
+  - voluntary contribution
