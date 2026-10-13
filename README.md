@@ -37,6 +37,11 @@ Pilot A deliberately excludes participant-facing AI, points or credits, commerce
 
 No recruitment should begin from this repository. Host authority, insurance and liability, work health and safety, volunteer/employment classification, conduct and safeguarding, accessibility, privacy, and facilitator capacity remain external gates.
 
+
+## October 2026 development addendum
+
+The [provisional Pilot Interpretation and Cognitive Access Addendum v0.2](PILOT_INTERPRETATION_ADDENDUM_v0.2.md) extends review questions about cognitive participation costs, non-participation, implicit pressure, and measurement discipline. It does not change Pilot A's operational gates or validate the model.
+
 ## Repository map
 
 | File | Purpose | Status |
